@@ -367,6 +367,13 @@ export const themes = {
     text_color: "e0def4",
     bg_color: "191724",
   },
+  aura_theme: {
+    title_color: "b163b4",
+    icon_color: "52e6ae",
+    text_color: "#5250e4",
+    bg_color: "14141c",
+    border_color: "#61ffca",
+  },
 };
 
 export default themes;
